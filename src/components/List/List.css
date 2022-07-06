@@ -1,0 +1,22 @@
+.list-container{
+    width: 80%;
+    margin: 0 auto;
+    font-size: 1em;
+    background-color:#f5f4f4;
+    height: 23rem;
+    overflow: scroll;
+    scroll-behavior: auto;
+    /* border-radius: 25px 10px 10px 25px; */
+}
+
+.list-container li{
+    color: #a8a8a8;
+    padding: 0.1rem;
+    max-width:80%;
+    background-color: #f5f4f4;
+    word-break:break-all;
+}
+
+.list-container ul{
+    list-style-type: circle;
+}

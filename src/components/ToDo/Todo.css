@@ -1,0 +1,17 @@
+.todo-container{
+    width: 20rem;
+    margin: 0 auto;
+    border-radius: 25px 25px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+    background-color: #fff;
+    margin-top: 2rem;
+    padding-bottom:1.5em ;
+}
+
+.app-header{
+    font-size: 2em;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+    color: #3f3f3f;
+}
